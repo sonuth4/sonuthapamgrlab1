@@ -28,5 +28,4 @@ var_dump($arrayVar);
 echo "<br><br>Data type checks:<br>";
 echo "Is \$integerVar an integer? " . (is_int($integerVar) ? "Yes" : "No") . "<br>";
 echo "Is \$floatVar a float? " . (is_float($floatVar) ? "Yes" : "No") . "<br>";
-echo "Is \$stringVar a string? " . (is_string($stringVar) ? "Yes" : "No") . "<br>";
 ?>
